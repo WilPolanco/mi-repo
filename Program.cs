@@ -10,6 +10,7 @@ namespace presentacion1
     {
         static void Main(string[] args)
         {
+algo
         }
     }
 }
